@@ -4,4 +4,4 @@ Fullstack freelance developer, I master both server-side development (backend) a
 
 [My portfolio](https://lionel-peramo.com) is available only in french as of now. You will find my experiences and my skills there.
 
-I am the creator of the PHP framework [OTRA](https://github.com/lperamo/otra).
+I am the creator of the PHP framework [OTRA](https://github.com/lperamo/otra) and the frontend library [EcoComposer](https://ecocomposer.dev).
