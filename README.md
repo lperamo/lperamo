@@ -14,7 +14,7 @@ I focus on high-performance, lightweight, and eco-friendly web solutions.
 
 ### 🎹 Composition
 My music is a bridge between technical precision and emotional depth, fueled by science and 3D environments.
-- 💿 **Listen & Support**: Find my albums on **[Bandcamp](https://lionel-peramo.bandcamp.com/album/the-source)**.
+- 💿 **Listen & Support**: Find my albums on [my blog](https://lionel-peramo.com/music/) or on **[Bandcamp](https://lionel-peramo.bandcamp.com/album/the-source)**.
 - 🎧 **Streaming**: Available on all major platforms (Spotify, Apple Music, Deezer, etc.).
 - 🎼 Every note has its place, just like an optimized line of code.
 
